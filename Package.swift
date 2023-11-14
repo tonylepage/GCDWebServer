@@ -5,7 +5,6 @@ import PackageDescription
 let package = Package(
 	name: "GCDWebServer",
 	platforms: [
-		.macOS(.v10_15),
 		.iOS(.v13),
 	],
 	products: [
